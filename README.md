@@ -6,6 +6,7 @@ A Python game of Tic-tac-toe, also known as Xs and Os
 <br>
 <b>Email: mariyasha888@gmail.com</b>
 <br>
+<br>
 Helped with Dataframe Styling:
 <br>
 https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html
