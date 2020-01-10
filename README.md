@@ -1,7 +1,10 @@
 # XO
 A Python game of Tic-tac-toe, also known as Xs and Os
 <br>
-Author: Mariya Sha
+<br>
+<b>Author: Mariya Sha</b>
+<br>
+<b>Email: mariyasha888@gmail.com</b>
 <br>
 Helped with Dataframe Styling:
 <br>
